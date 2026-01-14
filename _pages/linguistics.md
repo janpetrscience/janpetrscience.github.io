@@ -11,8 +11,6 @@ The diversity of languages led to the genre of linguistic problems. In a typical
 
 There is so only so much that can be conveyed by general descriptions; here are three sample problems, arguably in increasing difficulty.
 
-* Norwegian (by Julia Kuznetsova, 40th Moscow Traditional Linguistics Olympiad 2009)
-(**[problem and solution](/assets/pdf/NorwegianMTLO2009.pdf)**)
 * Japanese Braille (by Patrick Littell, NACLO 2009)
 (**[problem](http://www.naclo.cs.cmu.edu/assets/problems/naclo09A.pdf)**) (**[solution](https://naclo.org/resources/problems/2009/N2009-AS.pdf)**)
 * Adinkra (by Simi Hellsten, UKLO 2024)
