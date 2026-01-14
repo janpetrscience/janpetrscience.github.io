@@ -9,7 +9,7 @@ nav_order: 6
 
 The diversity of languages led to the genre of linguistic problems. In a typical linguistic problem, a solver is faced with a foreign language, possibly one that they have not even heard of before. There is no expectation that the solver has any prior knowledge about the language. Instead, they are challenged to understand some phenomena from the foreign language given data that appear in the problem.
 
-There is so only so much that can be conveyed by general descriptions; here are three sample problems, arguably in increasing difficulty.
+There is so only so much that can be conveyed by general descriptions; here are two sample problems.
 
 * Japanese Braille (by Patrick Littell, NACLO 2009)
 (**[problem](http://www.naclo.cs.cmu.edu/assets/problems/naclo09A.pdf)**) (**[solution](https://naclo.org/resources/problems/2009/N2009-AS.pdf)**)
