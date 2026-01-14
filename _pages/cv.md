@@ -31,7 +31,7 @@ nav_order: 3
 * 2017--2020
 * Bc. in General Mathematics
 * Summa cum laude
-* Thesis: [Monotone functions avoiding majorities](https://dspace.cuni.cz/handle/20.500.11956/119837) supervised by Prof. Libor Barto
+* Thesis: [Monotone functions avoiding majorities](https://dspace.cuni.cz/handle/20.500.11956/119837), supervised by Prof. Libor Barto
 * In each year received Scholarship for outstanding academic results
 
 **<ins>Undergraduate research experience</ins>**
