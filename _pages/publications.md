@@ -8,6 +8,13 @@ nav_order: 2
 
 (can also be seen on [Google Scholar](https://scholar.google.com/citations?user=mEUZ2YAAAAAJ))
 
+**<ins>preprints</ins>**
+
+[1] **The wreath matrix**\\
+with Pavel Turek\\
+_arXiv 2501.07269_, submitted\\
+([arXiv](https://arxiv.org/abs/2501.07269))
+
 **<ins>accepted</ins>**
 
 [12] **Reconstructing almost all of a point set in $\mathbb{R}^d$ from randomly revealed pairwise distances**\\
@@ -69,13 +76,6 @@ _Discrete Mathematics_, Volume 344, Issue 9 (2021)\\
 with Mikhail Beliayeu, Petr Chmel and Bhargav Narayanan\\
 _Electronic Communications in Probability_, 24 (2019)\\
 ([journal](https://doi.org/10.1214/19-ECP276)) ([arXiv](https://arxiv.org/abs/1909.05616))
-
-**<ins>submitted</ins>**
-
-[1] **The wreath matrix**\\
-with Pavel Turek\\
-_arXiv 2501.07269_\\
-([arXiv](https://arxiv.org/abs/2501.07269))
 
 **<ins>refereeing</ins>**
 
