@@ -54,7 +54,7 @@ _Discrete Mathematics_, Volume 346, Issue 1 (2023)\\
 
 [5] **The odd chromatic number of a planar graph is at most $8$**\\
 with Julien Portier\\
-_Graphs and Combinatorics_, 39 (2023)\\
+_Graphs and Combinatorics_, Volume 39, Issue 2 (2023)\\
 ([journal](https://doi.org/10.1007/s00373-023-02617-z)) ([arXiv](https://arxiv.org/abs/2201.12381))
 
 [4] **A new lower bound on the pebbling number of the grid**\\
@@ -74,7 +74,7 @@ _Discrete Mathematics_, Volume 344, Issue 9 (2021)\\
 
 [1] **Slowdown for the geodesic-biased random walk**\\
 with Mikhail Beliayeu, Petr Chmel and Bhargav Narayanan\\
-_Electronic Communications in Probability_, 24 (2019)\\
+_Electronic Communications in Probability_, Volume 24 (2019)\\
 ([journal](https://doi.org/10.1214/19-ECP276)) ([arXiv](https://arxiv.org/abs/1909.05616))
 
 **<ins>refereeing</ins>**
