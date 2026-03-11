@@ -19,8 +19,8 @@ _arXiv 2501.07269_, submitted\\
 
 [12] **Reconstructing almost all of a point set in $\mathbb{R}^d$ from randomly revealed pairwise distances**\\
 with Douglas Barnes, Julien Portier, Benedict Randall Shaw and Alan Sergeev\\
-accepted to _SIAM Journal on Discrete Mathematics_\\
-([arXiv](https://arxiv.org/abs/2401.01882))
+_SIAM Journal on Discrete Mathematics_, Volume 40, Issue 1 (2026)\\
+([journal](https://doi.org/10.1137/24M1706736)) ([arXiv](https://arxiv.org/abs/2401.01882))
 
 [11] **Towards odd-sunflowers: size-aware families and lightnings**\\
 with Pavel Turek\\
