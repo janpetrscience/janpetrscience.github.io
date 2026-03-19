@@ -10,6 +10,11 @@ nav_order: 2
 
 **<ins>preprints</ins>**
 
+[2] **Ordered Ramsey and Turán numbers of alternating paths and their variants**\\
+with Gaurav Kucheriya, Allan Lo, Amedeo Sgueglia and Jun Yan\\
+_arXiv 2603.12358_\\
+([arXiv](https://arxiv.org/abs/2603.12358))
+
 [1] **The wreath matrix**\\
 with Pavel Turek\\
 _arXiv 2501.07269_, submitted\\
