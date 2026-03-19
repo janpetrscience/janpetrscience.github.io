@@ -76,7 +76,12 @@ ninja.data = [{
       },{id: "news-the-page-is-online-hello-everyone",
           title: 'The page is online, hello everyone!',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-our-work-with-gaurav-kucheriya-allan-lo-amedeo-sgueglia-and-jun-yan-on-ordered-ramsey-numbers-is-on-arxiv",
+          title: 'Our work with Gaurav Kucheriya, Allan Lo, Amedeo Sgueglia and Jun Yan on...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
