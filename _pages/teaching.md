@@ -18,7 +18,7 @@ nav_order: 5
 
 Jul--Sep 2024: Supervising undergraduate students in **Summer Research in Maths** at the **University of Cambridge**
 * Supervised two undergraduate students (Jack Leonida and Sida Li) working on the problem of maximising the third largest eigenvalue of an adjacency matrix.
-* See [arXiv 2501.02563](https://arxiv.org/abs/2501.02563) and [arXiv 2501.07494](https://arxiv.org/abs/2501.07494).
+* See [Jack's and Sida's article](https://doi.org/10.1016/j.laa.2026.03.031) and [arXiv 2501.07494](https://arxiv.org/abs/2501.07494).
 
 Jul--Sep 2023: Co-supervising undergraduate students in **Summer Research in Maths** at the **University of Cambridge**
 * Together with the main supervisor Prof. Julian Sahasrabudhe and with Julien Portier co-supervised three undergraduate students (Douglas Barnes, Benedict Randall Shaw and Alan Sergeev) working on a problem about point set reconstruction.
