@@ -28,6 +28,8 @@ Below is an alphabetically ordered selection of my favourite authored problems -
 (**[problem](/assets/pdf/Bari.pdf)**) (**[solution](/assets/pdf/BariS.pdf)**)
 * Dogrib (ČLO 2018/2019)
 (**[problem](/assets/pdf/Dogrib.pdf)**) (**[solution](/assets/pdf/DogribS.pdf)**)
+* Ngiti (ČLO 2021/2022)
+(**[problem](/assets/pdf/Ngiti.pdf)**) (**[solution](/assets/pdf/NgitiS.pdf)**)
 * Norwegian (ČLO 2023/2024)
 (**[problem](/assets/pdf/Norwegian.pdf)**) (**[solution](/assets/pdf/NorwegianS.pdf)**)
 * Ojibwe (ČLO 2019/2020)
