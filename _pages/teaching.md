@@ -6,10 +6,12 @@ nav: true
 nav_order: 5
 ---
 
-2025–2026: Leading **The Millennium Problems seminar** at the **University of Passau**
+Apr--Jul 2026: Giving exercise classes for the **Analysis of Boolean Functions** course at the **University of Passau**.
+
+2025–-2026: Leading **The Millennium Problems seminar** at the **University of Passau**
 * Participants give presentations on the seven Millennium Prize Problems.
 
-2021-2025: Undergraduate **supervisions** at the **University of Cambridge**
+2021--2025: Undergraduate **supervisions** at the **University of Cambridge**
 * Graph Theory (2021–2025)
 * Numbers and Sets (2023–2024)
 * Linear Algebra (2023–2024)
