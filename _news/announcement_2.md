@@ -17,6 +17,8 @@ Our main contribution is an improved upper bound on $R_<(AP_n)$, namely $R_{<}(A
 
 Despite not expecting our result giving the precise value of $R_<(AP_n)$ it curiously gives correctly all known values, i.e. $n\leq 13$, as given by [Poljak (2023)](https://dspace.cuni.cz/bitstream/handle/20.500.11956/182079/120445995.pdf?sequence=1). In our paper we also consider a few other related ways to order $P_n$ and study their ordered Ramsey numbers. For these orderings, as well as for $AP_n$, we also study their ordered Turán numbers. A recent related and independent work on ordered Turán numbers including an overlapping result is due to [Barát, Freschi and Tóth (2025)](https://arxiv.org/abs/2512.15461).
 
+This project was initiated during [Topics in Ramsey theory](https://sparse-graphs.mimuw.edu.pl/doku.php?id=sessions:2025sessions:2025session1) online workshop organised by Stijn Cambie, Nemanja Draganić, António Girão, Eoin Hurley, and Ross Kang.
+
 Personal webpages of the coauthors:
 * [Gaurav Kucheriya](https://sites.google.com/view/gauravkucheriya/home)
 * [Allan Lo](https://web.mat.bham.ac.uk/S.A.Lo/)
