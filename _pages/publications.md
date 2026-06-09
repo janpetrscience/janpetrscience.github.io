@@ -10,6 +10,11 @@ nav_order: 2
 
 **<ins>preprints</ins>**
 
+[3] **Cheeger-type inequalities for the second largest spectral gap from $1$ of the normalized Laplacian**\\
+with Lies Beers and Raffaella Mulas\\
+_arXiv 2606.08061_\\
+([arXiv](https://arxiv.org/abs/2606.08061))
+
 [2] **Ordered Ramsey and Turán numbers of alternating paths and their variants**\\
 with Gaurav Kucheriya, Allan Lo, Amedeo Sgueglia and Jun Yan\\
 _arXiv 2603.12358_, submitted\\
