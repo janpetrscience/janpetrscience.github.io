@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 
+[7] <ins>Cheeger-type inequalities for the second largest spectral gap from  of the normalized Laplacian</ins> (**[slides](/assets/pdf/SDU_2026.pdf)** (corrected))\\
+_SDU Combinatorics Seminar_\\
+18th Jun 2026
+
 [6] <ins>Distributive sublattices of Bruhat orders: Beyond Harris-Kleitman for permutations</ins>\\
 _University of Heidelberg Theoretical Computer Science & Discrete Mathematics Research Seminar_\\
 2nd Dec 2025
