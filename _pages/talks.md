@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-[7] <ins>Cheeger-type inequalities for the second largest spectral gap from  of the normalized Laplacian</ins> (**[slides](/assets/pdf/SDU_2026.pdf)** (corrected))\\
+[7] <ins>Cheeger-type inequalities for the second largest spectral gap from  of the normalized Laplacian</ins> (**[slides](/assets/pdf/SDU_2026_corrected.pdf)** (corrected))\\
 _SDU Combinatorics Seminar_\\
 18th Jun 2026
 
