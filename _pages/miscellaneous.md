@@ -14,7 +14,7 @@ I was also lucky to be encouraged to participate in various scientific competiti
 
 To mention a couple of results from high school times that do not appear elsewhere on the page:
 * Bronze medal at the [58th International Mathematical Olympiad](https://www.imo-official.org/participant_r.aspx?id=27701&column=p3&order=desc) (2017)
-* 2nd place in the [66th Czech Mathematical Olympiad](https://www.matematickaolympiada.cz/media/3471954/a66list.pdf), surpassed only by [Pavel Turek](https://www.oist.jp/research/research-units/representations/pavel-turek) (2017)
+* 2nd place in the [66th Czech Mathematical Olympiad](https://www.matematickaolympiada.cz/media/3471954/a66list.pdf), surpassed only by [Pavel Turek](https://pavelturek.github.io/index.html) (2017)
 * 3rd place (gold medal) with the Czech team at the [12th European Union Science Olympiad](https://www.facebook.com/euso2014) (2014)
 * Team 3rd place and an individual silver medal at the [10th Middle European Mathematical Olympiad](https://www.math.aau.at/MEMO2016/?page_id=24) (2016)
 * 1st place among Czech high-school teams in [Náboj](https://math.old.naboj.org/archive/results.php?year=2017&category=sen&country_code=cz) (2017)
