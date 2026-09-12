@@ -95,5 +95,7 @@ I have experienced the peer review process from the other side thanks to:
 * [Combinatorica](https://link.springer.com/journal/493)
 * [Discrete Applied Mathematics](https://www.sciencedirect.com/journal/discrete-applied-mathematics)
 * [Discrete Mathematics](https://www.sciencedirect.com/journal/discrete-mathematics)
+* [Electronic Journal of Combinatorics](https://www.combinatorics.org)
 * [Graphs and Combinatorics](https://link.springer.com/journal/373)
 * [LATIN 2024](https://latin2024.cmm.uchile.cl)
+* [SODA 2027](https://www.siam.org/conferences-events/siam-conferences/soda27/)
