@@ -7,6 +7,14 @@ nav: true
 nav_order: 4
 ---
 
+[9] <ins>Distributive sublattices of Bruhat orders: the Harris-Kleitman inequality for finite Coxeter groups</ins>)\\
+_11th Polish Combinatorial Conference_\\
+22nd Sep 2026
+
+[8] <ins>Ordered and cyclic Ramsey numbers</ins>)\\
+_Combinatorial Tripoint Meeting 2026_\\
+18th Sep 2026
+
 [7] <ins>Cheeger-type inequalities for the second largest spectral gap from  of the normalized Laplacian</ins> (**[slides](/assets/pdf/SDU_2026_corrected.pdf)** (corrected))\\
 _SDU Combinatorics Seminar (online)_\\
 18th Jun 2026
@@ -16,7 +24,7 @@ _University of Heidelberg Theoretical Computer Science & Discrete Mathematics Re
 2nd Dec 2025
 
 [5] <ins>Temperate families</ins> (**[slides](/assets/pdf/RSA_2025.pdf)**)\\
-_Random Structures & Algorithms_\\
+_22nd International Conference on Random structures & Algorithms_\\
 5th Aug 2025
 
 [4] <ins>An algebraic approach to Baranyai's wreath conjecture</ins>\\
@@ -32,5 +40,5 @@ _Royal Holloway Mathematics Seminar_\\
 6th Mar 2024
 
 [1] <ins>On the number of minimum dominating sets and total dominating sets in forests</ins> (**[slides](/assets/pdf/PCC_2023.pdf)**)\\
-_Postgraduate Combinatorial Conference 2023_\\
+_27th Postgraduate Combinatorial Conference_\\
 29th Mar 2023
