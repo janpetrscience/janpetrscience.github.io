@@ -7,11 +7,11 @@ nav: true
 nav_order: 4
 ---
 
-[9] <ins>Distributive sublattices of Bruhat orders: the Harris-Kleitman inequality for finite Coxeter groups</ins>)\\
+[9] <ins>Distributive sublattices of Bruhat orders: the Harris-Kleitman inequality for finite Coxeter groups</ins>\\
 _11th Polish Combinatorial Conference_\\
 22nd Sep 2026
 
-[8] <ins>Ordered and cyclic Ramsey numbers</ins>)\\
+[8] <ins>Ordered and cyclic Ramsey numbers</ins>\\
 _Combinatorial Tripoint Meeting 2026_\\
 18th Sep 2026
 

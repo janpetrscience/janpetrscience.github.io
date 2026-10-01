@@ -6,6 +6,8 @@ nav: true
 nav_order: 5
 ---
 
+Oct 2026--Feb 2027: Lecturing the **Algebraic Combinatorics** course at the **University of Passau**
+
 Apr--Jul 2026: Giving exercise classes for the **Analysis of Boolean Functions** course at the **University of Passau**
 
 2025–-2026: Leading **The Millennium Problems seminar** at the **University of Passau**

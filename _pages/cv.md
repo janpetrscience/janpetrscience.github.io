@@ -9,7 +9,11 @@ nav_order: 3
 **<ins>Positions</ins>**
 
 **University of Passau**
-* 06/2025--now
+* 10/2026--09/2028
+* Postdoctoral Humboldt Research Fellow in the Discrete Mathematics group led by Prof. Stefan Glock
+
+**University of Passau**
+* 06/2025--09/2026
 * Postdoctoral researcher in the Discrete Mathematics group led by Prof. Stefan Glock
 
 **<ins>Education</ins>**

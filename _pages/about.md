@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a mathematician specialising in Combinatorics and Graph theory. Currently, I am a postdoctoral researcher at the University of Passau in the [Discrete Mathematics group](https://www.fim.uni-passau.de/en/discrete-mathematics/team) of Prof. [Stefan Glock](https://staff.fim.uni-passau.de/~glock/).
+I am a mathematician specialising in Combinatorics and Graph theory. I am currently a postdoctoral [Humboldt Research Fellow](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship) at the University of Passau in the [Discrete Mathematics group](https://www.fim.uni-passau.de/en/discrete-mathematics/team) of Prof. [Stefan Glock](https://staff.fim.uni-passau.de/~glock/). Previously, I was a postdoctoral researcher in the same place.
 
 My doctorate comes from the University of Cambridge (Trinity College) under the supervision of Prof. Béla Bollobás. Before that, I completed Part III in the same place. My undergraduate studies happened at the Charles University in Prague.
 
